@@ -46,7 +46,8 @@ Para executar localmente, siga os passos abaixo.
 
 3. **Use o menu interativo para gerenciar suas tarefas**
 
-Menu do Gerenciador de Lista de Tarefas:
+ ```bash
+Menu Gerenciador de Lista de Tarefas:
 1. Adicionar uma tarefa
 2. Ver tarefas
 3. Atualizar uma tarefa
